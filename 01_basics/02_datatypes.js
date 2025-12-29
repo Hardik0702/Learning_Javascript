@@ -11,15 +11,19 @@ console.log("Hardik");
 
 /* Datatype
 
-Integer ---> 2 to power 53
-BigInteger
+// Primitive datatypes
+Integer or Number---> 2 to power 53
+BigInteger or BigNumber
 String ----> "" or''
 Boolean ------> true/false
 null -------> standalone value
 undefined ------->
 symbol------> unique
 
+// Non-Primitive datatypes
+Array
 object
+Functions
 */
 
 console.log(typeof "Hardik");
